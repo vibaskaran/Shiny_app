@@ -2,7 +2,7 @@ name: Publish Presentation
 account: rpubs
 server: rpubs.com
 bundleId:
-        https://api.rpubs.com/api/v1/document/137584/5b4f820819c74c9e8e106ba4a0cff417
+        https://api.rpubs.com/api/v1/document/137596/598f0cd53c4a453f8b693fbd3e28e440
 url:
-        http://rpubs.com/publish/claim/137584/d20e73cb10864f8c891002ec43b191c1
-when: 1451187519.18431
+        http://rpubs.com/publish/claim/137596/66db6b3565f34e7198734f965d95e3c5
+when: 1451188317.07681
